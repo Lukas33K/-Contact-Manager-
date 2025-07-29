@@ -14,7 +14,7 @@ Jednoduché čisté rozhraní (HTML + CSS)
 
 ## 🖼️ Náhled aplikace
 
-![Náhled aplikace](screenshots/spravce-kontaktu.png)
+![Náhled aplikace](spravce-kontaktu.png)
 
 
 🧰 Použité technologie
