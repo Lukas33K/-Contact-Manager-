@@ -11,6 +11,12 @@ Uložení dat do contacts.json místo databáze
 
 Jednoduché čisté rozhraní (HTML + CSS)
 
+
+## 🖼️ Náhled aplikace
+
+![Náhled](./screenshots/spravce-kontaktu.png)
+
+
 🧰 Použité technologie
 PHP
 
